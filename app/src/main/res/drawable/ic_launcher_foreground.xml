@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple printer glyph, kept inside the ~66dp adaptive-icon safe zone. -->
+    <path android:fillColor="#4CC9F0" android:pathData="M30,38 L78,38 L78,54 L30,54 Z" />
+    <path android:fillColor="#F5F5F5" android:pathData="M24,54 L84,54 L84,76 L24,76 Z" />
+    <path android:fillColor="#4CC9F0" android:pathData="M36,62 L72,62 L72,88 L36,88 Z" />
+</vector>

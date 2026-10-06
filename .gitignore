@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Official vendor app, downloaded only for decompiling/comparison during
+# development (see M832BluetoothClient.kt's class doc) -- proprietary
+# third-party binary, not this project's code, and too large for git besides.
+*.xapk
+vendor-app/
